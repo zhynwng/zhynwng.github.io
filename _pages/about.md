@@ -2,7 +2,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: /index.html
 subtitle: M.S.E. in Robotics, University of Pennsylvania
 
 profile:
